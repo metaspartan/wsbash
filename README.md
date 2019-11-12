@@ -1,4 +1,4 @@
-#A simple Infura ETH Block Header Sub bash script. 
+## A simple Infura ETH Block Header Sub bash script. 
 
 Connects to the Infura.io API with your inputted Project ID and Project Secret and then subscribes to the selected ETH Network via Websockets and outputs the latest block headers
 
